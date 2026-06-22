@@ -1,0 +1,39 @@
+{
+  "doorTypes": {
+    "hidden": 15750,
+    "classic": 12000,
+    "sliding": 18000,
+    "entrance": 50000
+  },
+  "heightSurcharge": {
+    "2500": 1800,
+    "2700": 3200,
+    "3000": 5200,
+    "custom": 6500
+  },
+  "customWidthSurcharge": 2200,
+  "frames": {
+    "hidden_aluminum": 3500,
+    "mdf": 1600,
+    "telescopic": 2400
+  },
+  "finishes": {
+    "ral": 3000,
+    "veneer": 6000,
+    "hpl": 5200,
+    "mirror": 8500,
+    "lacobel": 7800,
+    "primer": 1200
+  },
+  "hardware": {
+    "baseHandle": 1500,
+    "hiddenHinges": 2500,
+    "magneticLock": 1200,
+    "trim": 1900,
+    "extension": 1700
+  },
+  "services": {
+    "installation": 2500,
+    "delivery": 1000
+  }
+}
