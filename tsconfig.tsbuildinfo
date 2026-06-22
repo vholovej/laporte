@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/doorvisual.tsx","./src/components/quoteeditor.tsx","./src/components/quotelist.tsx","./src/data/samplequotes.ts","./src/lib/calculation.ts","./src/lib/factories.ts","./src/lib/labels.ts","./src/lib/pdf.ts","./src/lib/storage.ts","./src/types/project.ts"],"version":"5.9.3"}
